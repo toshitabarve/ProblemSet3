@@ -1,2 +1,2 @@
-# ProblemSet3
+# Problem Set 3
 Repo for PS3
